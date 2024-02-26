@@ -9,7 +9,7 @@ window.onload = function () {
 	    placeholder: 'Send a message to the chatbot...',
 	  },
 	  created: function() {
-	  	
+
 	  },
 	  methods: {
 		add_message: function() {
